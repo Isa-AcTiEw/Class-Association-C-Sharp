@@ -19,6 +19,11 @@ namespace ClassAssociation
             Quantity = q;
         }
 
-        
+        public override string ToString()
+        {
+            return "Code: " + Code + "\tName: " + Name + "\tPrice " + Price + "\tQuantity: " + Quantity;
+        }
+
+
     }
 }

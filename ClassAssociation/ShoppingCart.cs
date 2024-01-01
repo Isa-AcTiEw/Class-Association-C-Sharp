@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace ClassAssociation
 {
     class ShoppingCart
@@ -10,6 +12,11 @@ namespace ClassAssociation
         public ShoppingCart(string id)
         {
             CartId = id;
+        }
+
+        public void AddCart(CartItem ci)
+        {
+            ItemList.Add(ci);
         }
     }
 }
