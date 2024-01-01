@@ -1,0 +1,15 @@
+/workspaces/Class-Association-C-Sharp/ClassAssociation/bin/Debug/net7.0/ClassAssociation
+/workspaces/Class-Association-C-Sharp/ClassAssociation/bin/Debug/net7.0/ClassAssociation.deps.json
+/workspaces/Class-Association-C-Sharp/ClassAssociation/bin/Debug/net7.0/ClassAssociation.runtimeconfig.json
+/workspaces/Class-Association-C-Sharp/ClassAssociation/bin/Debug/net7.0/ClassAssociation.dll
+/workspaces/Class-Association-C-Sharp/ClassAssociation/bin/Debug/net7.0/ClassAssociation.pdb
+/workspaces/Class-Association-C-Sharp/ClassAssociation/obj/Debug/net7.0/ClassAssociation.csproj.AssemblyReference.cache
+/workspaces/Class-Association-C-Sharp/ClassAssociation/obj/Debug/net7.0/ClassAssociation.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Class-Association-C-Sharp/ClassAssociation/obj/Debug/net7.0/ClassAssociation.AssemblyInfoInputs.cache
+/workspaces/Class-Association-C-Sharp/ClassAssociation/obj/Debug/net7.0/ClassAssociation.AssemblyInfo.cs
+/workspaces/Class-Association-C-Sharp/ClassAssociation/obj/Debug/net7.0/ClassAssociation.csproj.CoreCompileInputs.cache
+/workspaces/Class-Association-C-Sharp/ClassAssociation/obj/Debug/net7.0/ClassAssociation.dll
+/workspaces/Class-Association-C-Sharp/ClassAssociation/obj/Debug/net7.0/refint/ClassAssociation.dll
+/workspaces/Class-Association-C-Sharp/ClassAssociation/obj/Debug/net7.0/ClassAssociation.pdb
+/workspaces/Class-Association-C-Sharp/ClassAssociation/obj/Debug/net7.0/ClassAssociation.genruntimeconfig.cache
+/workspaces/Class-Association-C-Sharp/ClassAssociation/obj/Debug/net7.0/ref/ClassAssociation.dll
